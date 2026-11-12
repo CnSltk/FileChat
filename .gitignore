@@ -1,0 +1,16 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/workspace.xml
+.idea/misc.xml
+
+# OS
+.DS_Store
+Thumbs.db
